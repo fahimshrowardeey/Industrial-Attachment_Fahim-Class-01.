@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>HTML Class 01</title>
+<link rel="shortcut icon" href="https://images.squarespace-cdn.com/content/v1/5c6c8783523958b58c320e1b/1675779282748-2HUAEEF2BTNVMEABTC9X/Economy+Candy+3.JPEG
+" type="image/x-icon">   
+</head>
+<body>
+<h1>Title :HTML 01<sup>st</sup> Project</h1>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus exercitationem fugiat, consequuntur ab vel earum veniam incidunt aut consequatur vero ipsum dolores aliquam pariatur, sapiente voluptatibus illo debitis deserunt inventore?</p>
+<span>this is personilized web portal created for industrial attachment</span>
+<span> Also this similar similar to a industrial work</span>
+<P><small>Indutrial attachments class should maintain properly</small></P>
+
+<a target="_blank" href="https://www.example.com">Find Example</a>
+<br>
+<br>
+
+<a target="_blank" href="https://www.chelseamarket.com/directory-all/atasteofeconomycandy">
+    <img src="https://images.squarespace-cdn.com/content/v1/5c6c8783523958b58c320e1b/1675779282748-2HUAEEF2BTNVMEABTC9X/Economy+Candy+3.JPEG" alt="Example Image" width="200" height="150">
+</a>
+</body>
+<p>    
+</p>   
+</html>
